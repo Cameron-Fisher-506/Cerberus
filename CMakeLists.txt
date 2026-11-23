@@ -3,6 +3,6 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled presentation/main.cpp
-        presentation/main.cpp
-        presentation/main.cpp)
+add_executable(untitled common/presentation/main.cpp
+        common/presentation/main.cpp
+        common/presentation/main.cpp)
